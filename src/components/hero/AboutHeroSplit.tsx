@@ -53,7 +53,7 @@ export default function AboutHeroSplit() {
                     <ButtonUniversal
                         label="Download CV"
                         variant="download"
-                        href="/robson-cv"
+                        href="/robson-cv.pdf"
                         icon={<FileText size={18} />}
                     />
 
