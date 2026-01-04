@@ -11,7 +11,7 @@ export interface ProjectItem {
 export const projectsData: ProjectItem[] = [
     {
         title: "Aprender Violão Online",
-        description: "Projeto Next.js aprovado pelo Google AdSense, focado em aprendizado musical.",
+        description: "O LearningGuitar é uma plataforma educacional desenvolvida com Next.js 14, focada no ensino de violão e teoria musical. O projeto une conteúdo didático, animações com Framer Motion e integrações com Google AdSense e Hotmart para uma experiência moderna e fluida.",
         url: "https://aprenderviolaoonline.com.br",
         technologies: ["Next.js", "React", "TypeScript", "TailwindCSS"],
         image: "/projects/aprenderviolaoonline.png",
@@ -19,7 +19,7 @@ export const projectsData: ProjectItem[] = [
     },
     {
         title: "Cantos JSM",
-        description: "Portal musical em desenvolvimento para organização e estudo de cantos.",
+        description: "O CantosJSM é uma plataforma desenvolvida com Next.js para apoiar ministérios de música na organização de cantos litúrgicos e devocionais. O projeto oferece cantos organizados por momento da missa, com trechos permitidos, tom e cifras opcionais.",
         url: "https://cantosjsm.com.br",
         technologies: ["Next.js", "React", "TypeScript", "TailwindCSS"],
         image: "/projects/cantosjsm.png",
@@ -27,7 +27,7 @@ export const projectsData: ProjectItem[] = [
     },
     {
         title: "Windly",
-        description: "Plataforma de conteúdo avançado sobre performance front-end.",
+        description: "O Windly é uma plataforma educacional focada em front-end moderno, com conteúdos sobre TailwindCSS, Next.js, SEO, HTML semântico, acessibilidade e performance. O projeto reúne exemplos reais, boas práticas e um blog dinâmico sobre desenvolvimento.",
         url: "https://windly.com.br",
         technologies: ["Next.js", "React", "TypeScript", "TailwindCSS"],
         image: "/projects/windly.png",
